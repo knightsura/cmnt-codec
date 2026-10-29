@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CMNT Codec Command Line Interface
-Author: Surafel Wolde (FAN: 8047836790317269)
+Author: Surafel Wolde (FAN: 8047836790317269), Aziza Jemal
 
 Usage:
   python cmnt_cli.py compress input.png output.cmnt [--lossless | --lossy]
