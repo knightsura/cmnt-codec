@@ -1,6 +1,6 @@
 """
 CMNT (Combinatorial Multi-Node Tree) High-Performance Reference Image Codec
-Author: Surafel Wolde (FAN: 8047836790317269)
+Author: Surafel Wolde (FAN: 8047836790317269), Aziza Jemal
 Optimizations:
   - 45x faster inline clipping (eliminates np.clip overhead)
   - Direct tuple-tree traversal for instant decoding
