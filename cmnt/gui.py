@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CMNT Image Studio & Viewer v2.0 (High Performance)
-Author: Surafel Wolde (FAN: 8047836790317269)
+Author: Surafel Wolde (FAN: 8047836790317269), Aziza Jemal
 A modern desktop GUI application to view, convert, and manage .cmnt files.
 Features:
   - Fast multi-threaded asynchronous encoding/decoding (no GUI freezing)
