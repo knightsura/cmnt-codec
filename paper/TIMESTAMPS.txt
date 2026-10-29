@@ -1,0 +1,33 @@
+CRYPTOGRAPHIC PROOF OF EXISTENCE & AUTHORSHIP RECORD
+================================================================================
+Paper Title: Joint Combinatorial Partition Signaling for Coding Tree Units 
+             in Next-Generation Video Compression
+Lead Author: Surafel Wolde
+National ID / FAN: 8047836790317269
+Target: IEEE Data Compression Conference (DCC) / VCIP
+Date: October 26, 2026
+
+RESEARCH ARTIFACTS & SHA-256 CRYPTOGRAPHIC HASHES:
+--------------------------------------------------------------------------------
+1. Mathematical Specification:
+   File:   phase1_mathematical_formulation.md
+   SHA256: a61374ef095f501d1dfbafeccdc4315c0ed66f4b7433d4bdfbea90a586f2e1a2
+
+2. Reference C++ Codec Engine:
+   File:   cmnt_reference_codec.cpp
+   SHA256: 5b9583e8f797a612478ddee9642d3b18b982567c990819e0ae45428807c8c827
+
+3. Phase 2 Experimental Benchmark:
+   File:   phase2_cmnt_benchmark.py
+   SHA256: f86f8c85ccf85a0f2ad410d576f88e4f9512910b001ec671e709a95fc6652000
+
+4. Official IEEE Conference Paper Manuscript (LaTeX):
+   File:   paper_draft.tex
+   SHA256: 03e18a65de645795f39da90ca5daf779276ca8b8146a06520da4bcce742739e4
+--------------------------------------------------------------------------------
+
+VERIFICATION INSTRUCTIONS:
+Submit any or all of these hashes to opentimestamps.org or the Bitcoin blockchain.
+This establishes permanent, immutable, worldwide proof of scientific priority 
+for Surafel Wolde as of October 26, 2026.
+================================================================================

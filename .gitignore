@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Build & Dist
+build/
+dist/
+*.egg-info/
+
+# Temporary / Binary output
+*.cmnt
+*.tmp
+temp*
+recon*
+test_*
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
